@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Cybersecurity SOC Analyst student
 
-👩🏻‍🎓 Information Technology Management undergraduate
+👩🏻‍🎓 I hold a technical diploma in Information Technology Management
 
 🗃️ Projects (LABs) Reports
 <!--
