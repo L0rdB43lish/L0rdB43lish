@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be404c53-ff1e-42f0-85ee-d87e140db701" width="450">
+</p>
+
 ## 🔍 Who I am  
 I’m a SOC Analyst enthusiast, navigating the night-scapes of logs, alerts and network traces — calm, precise, never flashy, always ready.  
 I build, monitor and defend.  
