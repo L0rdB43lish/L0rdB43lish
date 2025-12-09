@@ -1,10 +1,17 @@
-### Hi, I'm Marcylle!
+## 🔍 Who I am  
+I’m a SOC Analyst enthusiast, navigating the night-scapes of logs, alerts and network traces — calm, precise, never flashy, always ready.  
+I build, monitor and defend.  
 
-👩🏻‍💻 Cybersecurity SOC Analyst student
+## 🎯 What I study now  
+- SOC Operations & Incident Handling
+- Network monitoring & logging (Zeek / tcpdump / Wazuh / Elastic / Splunk)
+- Threat detection and response — logs, logs everywhere  
 
-👩🏻‍🎓 I hold a technical diploma in Information Technology Management
+## 🧰 Main Tools & Technologies
+- Python · Bash · PowerShell
+- Windows · Linux · Active Directory
+- Wazuh · Elastic · Splunk · Zeek · Wireshark · Suricata
 
-🗃️ Projects (LABs) Reports
 <!--
 **L0rdB43lish/L0rdB43lish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
