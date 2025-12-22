@@ -8,13 +8,13 @@ I build, monitor and defend.
 
 ## 🎯 What I study now  
 - SOC Operations & Incident Handling
-- Network monitoring & logging (Zeek / tcpdump / Wazuh / Elastic / Splunk)
+- Network monitoring & logging (Zeek / tcpdump / Wazuh / Elastic / Splunk / QRadar)
 - Threat detection and response — logs, logs everywhere  
 
 ## 🧰 Main Tools & Technologies
 - Python · Bash · PowerShell
 - Windows · Linux · Active Directory
-- Wazuh · Elastic · Splunk · Zeek · Wireshark · Suricata
+- Wazuh · Elastic · Splunk · Zeek · Wireshark · Suricata · QRadar
 
 <!--
 **L0rdB43lish/L0rdB43lish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
